@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.fef95492.css",
+    "main.js": "/portfolio/static/js/main.2584675d.js",
+    "static/media/alaska.ttf": "/portfolio/static/media/alaska.dd40af7450a45d497d2d.ttf",
+    "static/media/suryaPic.png": "/portfolio/static/media/suryaPic.04cf1f4fd11a87980399.png",
+    "static/media/Resume-SURYAKUMAR.pdf": "/portfolio/static/media/Resume-SURYAKUMAR.c06973e9b694c51886fe.pdf",
+    "static/media/school.svg": "/portfolio/static/media/school.d11aa0ba8695922466519273d72a43d4.svg",
+    "static/media/work.svg": "/portfolio/static/media/work.51278e9101cef2785cc586d79be3528b.svg",
+    "static/media/degree.svg": "/portfolio/static/media/degree.23231ee2f2d1d6de30427358bc2b4222.svg",
+    "index.html": "/portfolio/index.html",
+    "main.fef95492.css.map": "/portfolio/static/css/main.fef95492.css.map",
+    "main.2584675d.js.map": "/portfolio/static/js/main.2584675d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef95492.css",
+    "static/js/main.2584675d.js"
+  ]
+}
