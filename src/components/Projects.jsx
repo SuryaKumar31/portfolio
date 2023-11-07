@@ -133,7 +133,10 @@ const Projects = () => {
             </div>
             <div className="flex items-center justify-center">
               <div className="flex items-center justify-center  p-2 rounded gap-1 bg-cyan-400 hover:bg-cyan-300 shadow-2xl my-2 cursor-pointer">
-                <a href="./" className="text-lg">
+                <a
+                  href="https://github.com/SuryaKumar31/portfolio"
+                  className="text-lg"
+                >
                   sourcecode{" "}
                 </a>
                 <FaGithub className="text-xl " />{" "}
